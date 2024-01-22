@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![PreworkGif](https://github.com/annalyrocha/web102_prework/assets/143360617/10d84319-e4fa-4ab6-b35c-52720ad7da93)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
